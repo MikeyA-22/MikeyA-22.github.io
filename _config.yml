@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Michael O.A."
 title_separator          : "-"
-subtitle                 : "The site to end all sites"# site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael O. Atteh"
 description              : "Game Designer | Technical Artist"
 url                      : https://mikeya-22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
