@@ -10,7 +10,7 @@ sidebar:
   - title: "Role"
     image: //
     image_alt: ""
-    text: "Lead Artist, Animator, 2D artist"
+    text: "Lead Artist, Animator, 2D artist, UI/UX designer"
     nav: Responsibilities
   - title: "Tools used"
     text: "Unity, Aseprite, Photoshop, Github, Gitkraken, Github Desktop, Visual Studio, Jetbrains rider"#please add project management tool
@@ -35,14 +35,13 @@ gallery:
 
 Minigame Royale is a collection of simplistic arcade-type minigames where players compete against each other to see who can win more games of their choosing. Players can select from a variety of games, including top-down games, side-view games, shooter games, dodging games, and more!
 As the sole artist for Minigame Royale, I played a pivotal role in bringing the game’s world to life.
-{% include gallery caption="screenshots from the game, featuring the art I created" %}
+{% include gallery caption="screenshots from the game" %}
 
 ## Character Design 
 I created all the characters in the game, they were designed with only the colors red and blue to make it simple for the player to differentiate between each other and to give the game a fun and vibrant design
 
 ## Sprites and Animations
 I meticulously crafted the sprites and animations,keeping in mind the limitations of being the only artist I made sure the animations were simple and transferable between each mini-game, ensuring smooth and visually appealing movements that enhance the overall gaming experience.
-
 
 
 ## UI/UX Design
