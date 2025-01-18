@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Atteh"
-  avatar           : /assets/images/bio-photo.jpg
+  avatar           : /assets/images/face_card.jpg
   bio              : "I am an Aspiring Game developer and Technical artist"
   location         : "Oshawa, ON"
   email            :
@@ -122,7 +122,7 @@ author:
   
       
   links:
-    - label: ""
+    - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:michaelatteh623@gmail.com"
     - label: "Website"
@@ -137,13 +137,13 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: ""
+    - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/michael-atteh-2573aa274      
-    - label: ""
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/my.k.el/
-    - label: ""
+    - label: "Discord"
       icon: "fab fa-fw fa-discord"
       url: https://discordapp.com/users/917707808584106005
 
