@@ -64,7 +64,8 @@ To save time on tutorialization, the game uses text based cues to direct the pla
 
 ## UI and Poster Art
 
-I created the poster and background art, and helped ideate the UI used in the game
+I created the poster and background art, and helped ideate the UI used in the game.
+The UI features a simple text displayed when the player needs information, for example, when the player has a healing orb in their range.
 
 ## Asset Modelling(Environment And Character Art)
 
