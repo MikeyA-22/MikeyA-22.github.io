@@ -11,7 +11,7 @@ sidebar:
   - title: "Role"
     text: "Technical Artist, UI Designer, Level Designer, Lead Artist"
   - title: "Responsibilities"
-    text: "UI and UX design, User research through playtesting, concept art, 3D assets and Animations, ideation and creation of VFX, Rigging all characters etc."
+    text: "UI and UX design, User research through playtesting, concept art, 3D assets and Animations, ideation and creation of VFX, Rigging characters etc."
   - title: "Tools Used"
     text: " Unity, C#, HLSL, Blender, Cascadeur, Figma, Krita, GitKraken, Gitbash, Github Desktop, Visual Studio, Jetbrains rider, Asana"#please add project management tool
 gallery:
@@ -43,6 +43,15 @@ I also had the responsibility of helping create the mood for the game, using var
 </figure>
 The character designs I created where also adjusted to fit in with this theme, the sword the character uses features norse runes, which translate to wolf, the characters also wore clothing which took inspiration from norse backgrounds.
 The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic
+
+
+## Level Design
+
+The game comprises a large environment that reflect the personalities and abilities of the enemies, enhancing the game's world-building. 
+The character follows a linear path towards the final boss, and uses environmental puzzles, inspired by its zelda-like influences to teach and challenge the player, making areas that were not accessible before accessible through mechanics such as:
+* ice shot to create bridges on water
+* The sword to clear out debris blocking paths
+
 
 ## UI and Poster Art
 
