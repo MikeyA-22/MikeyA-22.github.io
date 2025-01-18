@@ -35,7 +35,7 @@ gallery:
 
 The original Idea for the game was a game the Five stages of grief, with each area relating to a stage and having its own unique theme, unique enemies and unique bosses. But we overestimated how much time we would have for this and decided to shorten it to the first are denial, which featured a snowy terrain.
 
-This change in direction prompted me to change and improve the characters and to rename the game **Fenris**.
+This change in direction prompted us to change and improve the characters and to rename the game **Fenris**.
 I also had the responsibility of helping create the mood for the game, using various lighting techniques, and level design to create the mood of the game, allowing the game to feel both quiet and empty, but still avoid looking monotone.
 <figure class="align-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/skeleton-enemy-concept.png" alt="">
