@@ -44,6 +44,7 @@ I also had the responsibility of helping create the mood for the game, using var
 The character designs I created where also adjusted to fit in with this theme, the sword the character uses features norse runes, which translate to wolf, the characters also wore clothing which took inspiration from norse backgrounds.
 The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic
 
+
 # Playtesting
 
 Through playtests conducted by myself and the team, we were able to get feedback that helped improve the overall gameplay
@@ -54,17 +55,19 @@ The game was also significantly more difficult than its final iteration, but thr
 
 
 
+## Gameplay and Level Design
 
-## Level Design
-
-The level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
+The gameplay and level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
 
 Key mechanics include:
 
+* Hack and slash combat mechanics: The player can attack with a sword shoot a long range ice shot, and roll to dynamically dodge attacks.s
 * Puzzle Integration: Using an ice shot to create bridges and a sword to clear debris, enhancing exploration and navigation.
 * Linear Progression: Levels guide players toward a final boss while encouraging exploration through subtle environmental cues.
 * Thematic Design: The snowy setting reflects the "Denial" stage of grief, integrating narrative and design seamlessly.
-* This thoughtful level design balances challenge, story integration, and player engagement.
+
+
+This thoughtful level design balances challenge, story integration, and player engagement.
 
 ## Tutorialization
 
