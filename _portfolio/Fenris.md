@@ -24,9 +24,6 @@ gallery:
   #- url: /
   - image_path: assets/images/character-sword-model.png
     alt: "placeholder image 3"
-#gallery2:
-  #-image_path: assets/images/ice_bridge.png
-  #alt: "ice_bridge"
 
 
 ---
@@ -45,8 +42,7 @@ I also had the responsibility of helping create the mood for the game, using var
   <figcaption>Concept art for a skeleton enemy</figcaption>
 </figure>
 The character designs I created where also adjusted to fit in with this theme, the sword the character uses features norse runes, which translate to wolf, the characters also wore clothing which took inspiration from norse backgrounds.
-[comment]: <> (The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic)
-
+The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic
 
 # Playtesting
 
@@ -54,24 +50,21 @@ Through playtests conducted by myself and the team, we were able to get feedback
 
 The game originally did not feature the text cues after the sword pickup, and during the playtesting we were able to hear from playtesters that there was some confusion about the right direction to go in after collecting the sword. We used this to help improve the gameplay by prompting the player to go in the right direction after collecting the sword.
 
-The game was also significantly more difficult than its final iteration, but through the player feedback, we were able to determine and improve the gameplay. 
+The game was also significantly more difficult than its final iteration, but through the player feedback, we were able to determine and improve the 
 
 
 
-## Gameplay and Level Design
 
-The gameplay and level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
+## Level Design
+
+The level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
 
 Key mechanics include:
 
-* Hack and slash combat mechanics: The player can attack with a sword shoot a long range ice shot, and roll to dynamically dodge attacks.s
 * Puzzle Integration: Using an ice shot to create bridges and a sword to clear debris, enhancing exploration and navigation.
 * Linear Progression: Levels guide players toward a final boss while encouraging exploration through subtle environmental cues.
 * Thematic Design: The snowy setting reflects the "Denial" stage of grief, integrating narrative and design seamlessly.
-
-This thoughtful level design balances challenge, story integration, and player engagement.
-
-<!--{% include gallery2 caption="Gameplay captures" %}-->
+* This thoughtful level design balances challenge, story integration, and player engagement.
 
 ## Tutorialization
 
