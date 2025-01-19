@@ -29,9 +29,9 @@ gallery:
 ---
 [DOWNLOAD IT HERE!](https://dezrts.itch.io/fenris){: .btn .btn--primary}
 
+An isometric hack and slash action-adventure game where the player must traverse a frozen wasteland and defeat various types of enemies.
+
 ## Research and Development
-
-
 
 The original Idea for the game was a game the Five stages of grief, with each area relating to a stage and having its own unique theme, unique enemies and unique bosses. But we overestimated how much time we would have for this and decided to shorten it to the first are denial, which featured a snowy terrain.
 
@@ -43,6 +43,16 @@ I also had the responsibility of helping create the mood for the game, using var
 </figure>
 The character designs I created where also adjusted to fit in with this theme, the sword the character uses features norse runes, which translate to wolf, the characters also wore clothing which took inspiration from norse backgrounds.
 The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic
+
+# Playtesting
+
+Through playtests conducted by myself and the team, we were able to get feedback that helped improve the overall gameplay
+
+The game originally did not feature the text cues after the sword pickup, and during the playtesting we were able to hear from playtesters that there was some confusion about the right direction to go in after collecting the sword. We used this to help improve the gameplay by prompting the player to go in the right direction after collecting the sword.
+
+The game was also significantly more difficult than its final iteration, but through the player feedback, we were able to determine and improve the 
+
+
 
 
 ## Level Design
@@ -65,6 +75,7 @@ To save time on tutorialization, the game uses text based cues to direct the pla
 ## UI and Poster Art
 
 I created the poster and background art, and helped ideate the UI used in the game.
+
 The UI features a simple text displayed when the player needs information, for example, when the player has a healing orb in their range.
 
 ## Asset Modelling(Environment And Character Art)
