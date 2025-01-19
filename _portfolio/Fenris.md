@@ -24,9 +24,9 @@ gallery:
   #- url: /
   - image_path: assets/images/character-sword-model.png
     alt: "placeholder image 3"
-gallery2:
-  -image_path: assets/images/ice_bridge.png
-  alt: "ice_bridge"
+#gallery2:
+  #-image_path: assets/images/ice_bridge.png
+  #alt: "ice_bridge"
 
 
 ---
