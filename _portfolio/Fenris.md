@@ -71,7 +71,7 @@ Key mechanics include:
 
 This thoughtful level design balances challenge, story integration, and player engagement.
 
-{% include gallery2 caption="Gameplay captures" %}
+<!--{% include gallery2 caption="Gameplay captures" %}-->
 
 ## Tutorialization
 
