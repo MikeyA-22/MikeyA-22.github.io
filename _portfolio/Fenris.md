@@ -24,7 +24,9 @@ gallery:
   #- url: /
   - image_path: assets/images/character-sword-model.png
     alt: "placeholder image 3"
-
+gallery2:
+  -image_path: assets/images/ice_bridge.png
+  alt: "ice_bridge"
 
 ---
 [DOWNLOAD IT HERE!](https://dezrts.itch.io/fenris){: .btn .btn--primary}
@@ -61,10 +63,14 @@ The level design of Fenris emphasizes exploration, progression, and environmenta
 
 Key mechanics include:
 
+* Hack and slash combat mechanics: The player can attack with a sword shoot a long range ice shot, and roll to dynamically dodge attacks.
 * Puzzle Integration: Using an ice shot to create bridges and a sword to clear debris, enhancing exploration and navigation.
 * Linear Progression: Levels guide players toward a final boss while encouraging exploration through subtle environmental cues.
 * Thematic Design: The snowy setting reflects the "Denial" stage of grief, integrating narrative and design seamlessly.
-* This thoughtful level design balances challenge, story integration, and player engagement.
+
+This thoughtful level design balances challenge, story integration, and player engagement.
+
+{% include gallery id = "gallery2" caption="Gameplay captures" %}
 
 ## Tutorialization
 
