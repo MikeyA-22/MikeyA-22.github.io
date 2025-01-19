@@ -24,6 +24,9 @@ gallery:
   #- url: /
   - image_path: assets/images/character-sword-model.png
     alt: "placeholder image 3"
+gallery2:
+  -image_path: assets/images/ice_bridge.png
+  alt: "ice_bridge"
 
 
 ---
@@ -66,8 +69,9 @@ Key mechanics include:
 * Linear Progression: Levels guide players toward a final boss while encouraging exploration through subtle environmental cues.
 * Thematic Design: The snowy setting reflects the "Denial" stage of grief, integrating narrative and design seamlessly.
 
-
 This thoughtful level design balances challenge, story integration, and player engagement.
+
+{% include gallery2 caption="Gameplay captures" %}
 
 ## Tutorialization
 

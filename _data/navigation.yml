@@ -8,7 +8,7 @@ main:
   #   url: /year-archive/
    #- title: "About"
     # url: /splash-page/
-   - title: "Games"
+   - title: "Projects"
      url: /portfolio/
      
 skills:
