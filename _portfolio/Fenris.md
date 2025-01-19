@@ -57,15 +57,14 @@ The game was also significantly more difficult than its final iteration, but thr
 
 ## Level Design
 
-The game comprises a large environment that reflect the personalities and abilities of the enemies, enhancing the game's world-building.
+The level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
 
-The game also features multiple enemies with strengths and weaknesses based on their abilities to balance out the difficulty, i.e. the wizard: features a long range attack and a melee, but the lowest health, making him very versatile, but weak, a glass cannon, in a sense.
+Key mechanics include:
 
-The character follows a linear path towards the final boss, and uses environmental puzzles, inspired by its zelda-like influences to teach and challenge the player, making areas that were not accessible before accessible through mechanics such as:
-* ice shot to create bridges on water
-* The sword to clear out debris blocking paths
-
-The environment also makes use of walls to lock the player into battle sequences with phases of enemies, forcing the player to fight rather than giving them the option to escape the battle.
+* Puzzle Integration: Using an ice shot to create bridges and a sword to clear debris, enhancing exploration and navigation.
+* Linear Progression: Levels guide players toward a final boss while encouraging exploration through subtle environmental cues.
+* Thematic Design: The snowy setting reflects the "Denial" stage of grief, integrating narrative and design seamlessly.
+* This thoughtful level design balances challenge, story integration, and player engagement.
 
 ## Tutorialization
 
