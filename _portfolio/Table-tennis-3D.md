@@ -9,6 +9,8 @@ sidebar:
     text: "Sole creator: Designer, Developer and Artist."
   - title: "Responsibilities"
     text: "Creating about everything in the game, apart from the rigging of the character, this was Mixamo."
+  - title: "Tools Used"
+    text: "Godot, Figma, GDScript"
 gallery:
   - url: /assets/images/Level 1.png
     image_path: assets/images/Level 1.png
