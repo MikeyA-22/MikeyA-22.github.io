@@ -31,6 +31,10 @@ gallery:
 gallery2:
   - url: assets/images/d_dodgeball_tut.jpg
     image_path: assets/images/d_dodgeball_tut.jpg
+    
+gallery3:
+  - url: assets/images/char_design_mgroyale.jpg
+    image_path: assets/images/char_design_mgroyale.jpg
 ---
 
 [DOWNLOAD IT HERE!](https://christianzambri777.itch.io/minigame){: .btn .btn--primary}
@@ -51,6 +55,8 @@ As the sole artist for Minigame Royale, I played a pivotal role in bringing the 
 
 ## Character Design 
 The game characters were designed with only the colors red and blue to make it simple for the player to differentiate between while giving the game a fun and vibrant design
+
+{% include gallery id = "gallery3" caption="a closer look at the character design" %}
 
 ## Tutorialization
 
