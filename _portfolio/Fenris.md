@@ -27,6 +27,8 @@ gallery:
 gallery2:
   - image_path: assets/images/ice_bridge.jpg
     alt: "ice_bridge"
+  - image_path: assets/images/attack_sequence.jpg
+    alt: "ice_bridge"
 
 ---
 [DOWNLOAD IT HERE!](https://dezrts.itch.io/fenris){: .btn .btn--primary}
@@ -87,7 +89,7 @@ The UI features a simple text displayed when the player needs information, for e
 
 As the lead (and only) artist on the team, I was tasked with creating virtually all the 3D assets in the game, including the characters and environmental assets.
 
-{% include gallery caption="Some 3D Assets I modelled." %}
+{% include gallery layout = "half" caption="Some 3D Assets I modelled." %}
 
 ## Rigging and Animation
 
