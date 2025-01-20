@@ -44,6 +44,10 @@ Playtesting revealed areas for improvement:
 * **Directional Guidance**: Post-sword pickup, players were uncertain of their next steps. Implementing text cues addressed this issue.
 * **Difficulty Adjustment**: Initial gameplay was overly challenging. Player feedback led to difficulty balancing for a more accessible experience.
 
+<figure class="align-right">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skeleton-enemy-concept.png" alt="">
+  <figcaption>Concept art for a skeleton enemy</figcaption>
+</figure>
 
 
 ## Gameplay and Level Design
