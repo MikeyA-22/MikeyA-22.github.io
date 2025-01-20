@@ -27,6 +27,10 @@ gallery:
   - url: /assets/images/UI-minigame-royal.png
     image_path: assets/images/UI-minigame-royal.png
     alt: "placeholder image 3"
+
+gallery2:
+  - url: assets/images/d_dodgeball_tut.jpg
+    image_path: assets/images/d_dodgeball_tut.jpg
 ---
 
 [DOWNLOAD IT HERE!](https://christianzambri777.itch.io/minigame){: .btn .btn--primary}
@@ -46,7 +50,13 @@ As the sole artist for Minigame Royale, I played a pivotal role in bringing the 
 * **Savage Shooter**: Players must avoid getting hit by bullets shot by the opposing player by going from height to height, but be wary! the bullets will follow you regardless of the level you are at!
 
 ## Character Design 
-I created all the characters in the game, they were designed with only the colors red and blue to make it simple for the player to differentiate between while giving the game a fun and vibrant design
+The game characters were designed with only the colors red and blue to make it simple for the player to differentiate between while giving the game a fun and vibrant design
+
+## Tutorialization
+
+the tutorialization for the game features a simple screen before each game that shows off the game's core mechanic and controls, using the colors to differentiate the player's controls.
+
+{% include gallery id = "gallery2" caption="danger dodgeball tutorial page" %}
 
 ## UI/UX Design
 I designed the user interface and user experience, making the game intuitive and easy to navigate. My attention to detail ensures that players can focus on the fun without any distractions.
