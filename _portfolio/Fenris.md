@@ -57,9 +57,9 @@ The game was also significantly more difficult than its final iteration, but thr
 
 
 
-## Level Design
+## Gameplay and Level Design
 
-The level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
+The gameplay and level design of Fenris emphasizes exploration, progression, and environmental puzzles inspired by games like The Legend of Zelda, Death’s Door, and Tunic. It features a large, snowy environment where players face various enemies with unique strengths and weaknesses. 
 
 Key mechanics include:
 
@@ -81,7 +81,7 @@ To save time on tutorialization, the game uses text based cues to direct the pla
 
 I created the poster and background art, and helped ideate the UI used in the game.
 
-The UI features a simple text displayed when the player needs information, for example, when the player has a healing orb in their range.
+The UI features a simple text displayed when the player needs information, for example, when the player has a healing orb in their range. The HUD features simple hearts to indicate player's health, inspired by those used in zelda games, and the shot uses a cooldown system, indicated by a quick filling animation for the cooldown time.
 
 ## Asset Modelling(Environment And Character Art)
 
