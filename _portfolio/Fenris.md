@@ -63,7 +63,7 @@ Key mechanics include:
 
 This thoughtful level design balances challenge, story integration, and player engagement.
 
-{% include gallery id = "gallery2" layout = "half"  caption="Gameplay captures" %}
+{% include gallery id = "gallery2" layout = "full"  caption="Gameplay captures" %}
 
 ## Tutorialization
 
