@@ -37,7 +37,7 @@ An isometric hack and slash action-adventure game where the player must traverse
 
 ## Research and Development
 
-TIn the Research and Development phase of Fenris, the team initially planned to represent the five stages of grief, each with unique themes, enemies, and bosses. Due to time constraints, the scope was narrowed to focus on the "Denial" stage, featuring a snowy terrain. This shift influenced character designs, incorporating Norse elements like runes translating to "wolf" and attire inspired by Norse culture. The game drew inspiration from titles such as The Legend of Zelda, Death’s Door, and Tunic.
+In the Research and Development phase of Fenris, the team initially planned to represent the five stages of grief, each with unique themes, enemies, and bosses. Due to time constraints, the scope was narrowed to focus on the "Denial" stage, featuring a snowy terrain. This shift influenced character designs, incorporating Norse elements like runes translating to "wolf" and attire inspired by Norse culture. The game drew inspiration from titles such as The Legend of Zelda, Death’s Door, and Tunic.
 
 Playtesting revealed areas for improvement:
 
