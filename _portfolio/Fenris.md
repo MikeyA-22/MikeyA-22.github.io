@@ -37,25 +37,12 @@ An isometric hack and slash action-adventure game where the player must traverse
 
 ## Research and Development
 
-The original Idea for the game was a game the Five stages of grief, with each area relating to a stage and having its own unique theme, unique enemies and unique bosses. But we overestimated how much time we would have for this and decided to shorten it to the first are denial, which featured a snowy terrain.
+TIn the Research and Development phase of Fenris, the team initially planned to represent the five stages of grief, each with unique themes, enemies, and bosses. Due to time constraints, the scope was narrowed to focus on the "Denial" stage, featuring a snowy terrain. This shift influenced character designs, incorporating Norse elements like runes translating to "wolf" and attire inspired by Norse culture. The game drew inspiration from titles such as The Legend of Zelda, Death’s Door, and Tunic.
 
-This change in direction prompted us to change and improve the characters and to rename the game **Fenris**.
-I also had the responsibility of helping create the mood for the game, using various lighting techniques, and level design to create the mood of the game, allowing the game to feel both quiet and empty, but still avoid looking monotone.
-<figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/skeleton-enemy-concept.png" alt="">
-  <figcaption>Concept art for a skeleton enemy</figcaption>
-</figure>
-The character designs I created where also adjusted to fit in with this theme, the sword the character uses features norse runes, which translate to wolf, the characters also wore clothing which took inspiration from norse backgrounds.
-<!--The game also takes heavy influence from games like Legends of Zelda, Death's Door, and Tunic-->
+Playtesting revealed areas for improvement:
 
-# Playtesting
-
-Through playtests conducted by myself and the team, we were able to get feedback that helped improve the overall gameplay
-
-The game originally did not feature the text cues after the sword pickup, and during the playtesting we were able to hear from playtesters that there was some confusion about the right direction to go in after collecting the sword. We used this to help improve the gameplay by prompting the player to go in the right direction after collecting the sword.
-
-The game was also significantly more difficult than its final iteration, but through the player feedback, we were able to determine and improve the gameplay 
-
+* **Directional Guidance**: Post-sword pickup, players were uncertain of their next steps. Implementing text cues addressed this issue.
+* **Difficulty Adjustment**: Initial gameplay was overly challenging. Player feedback led to difficulty balancing for a more accessible experience.
 
 
 
