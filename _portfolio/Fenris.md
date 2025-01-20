@@ -13,7 +13,7 @@ sidebar:
   - title: "Responsibilities"
     text: "UI and UX design, User research through playtesting, concept art, 3D assets and Animations, ideation and creation of VFX, Rigging characters etc."
   - title: "Tools Used"
-    text: " Unity, C#, HLSL, Blender, Cascadeur, Figma, Krita, GitKraken, Gitbash, Github Desktop, Visual Studio, Jetbrains rider, Asana"#please add project management tool
+    text: " Unity, C#, HLSL, Blender, Cascadeur, Figma, Krita, GitKraken, Gitbash, Github Desktop, Visual Studio, Jetbrains rider, Asana"
 gallery:
   #- url: /
   - image_path: assets/images/skeleton-enemy-model.png
