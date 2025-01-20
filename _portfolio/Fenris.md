@@ -72,7 +72,7 @@ Key mechanics include:
 
 This thoughtful level design balances challenge, story integration, and player engagement.
 
-{% include gallery id = "gallery2" caption="Gameplay captures" %}
+{% include gallery id = "gallery2" layout = "half"  caption="Gameplay captures" %}
 
 ## Tutorialization
 
@@ -89,7 +89,7 @@ The UI features a simple text displayed when the player needs information, for e
 
 As the lead (and only) artist on the team, I was tasked with creating virtually all the 3D assets in the game, including the characters and environmental assets.
 
-{% include gallery layout = "half" caption="Some 3D Assets I modelled." %}
+{% include gallery caption="Some 3D Assets I modelled." %}
 
 ## Rigging and Animation
 
