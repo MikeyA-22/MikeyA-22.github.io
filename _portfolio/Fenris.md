@@ -25,8 +25,10 @@ gallery:
   - image_path: assets/images/character-sword-model.png
     alt: "placeholder image 3"
 gallery2:
+  - url: assets/images/ice_bridge.jpg
   - image_path: assets/images/ice_bridge.jpg
     alt: "ice_bridge"
+  - url: assets/images/attack_sequence.jpg
   - image_path: assets/images/attack_sequence.jpg
     alt: "ice_bridge"
 
