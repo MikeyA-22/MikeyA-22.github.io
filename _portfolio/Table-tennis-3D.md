@@ -35,7 +35,7 @@ My points of inspiration for this game comes from two games in particular, Mario
 I decided to use Godot not only as a challenge to myself, though I had some experience with it in the past, it was not my go-to engine, but also for the easy readability and deployment of GD script, which allowed for rapid development and iteration, making it the perfect engine for quickly creating in a game jam environment.
 
 
-{% include gallery layout: "full" caption="The three levels and AI enemies in the game." %}
+{% include gallery layout = "full" caption="The three levels and AI enemies in the game." %}
 
 ## Playtesting
 Due to the short time period, my playtesters were mostly my friends and roommates! I was able to make the following changes due to their contribution:
