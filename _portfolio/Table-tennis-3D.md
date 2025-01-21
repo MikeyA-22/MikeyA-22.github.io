@@ -24,6 +24,15 @@ gallery:
   - url: /assets/images/Level 3.png
     image_path: assets/images/Level 3.png
     alt: "placeholder image 3"
+
+gallery2:
+  - url: assets/images/level1playerstats.jpg
+    image_path: assets/images/level1playerstats.jpg
+  - url: assets/images/level2playerstats.jpg
+    image_path: assets/images/level2playerstats.jpg    
+  - url: assets/images/level3playerstats.jpg
+    image_path: assets/images/level3playerstats.jpg
+
 ---
 [DOWNLOAD IT HERE!](https://mikey-a.itch.io/table-tennis){: .btn .btn--primary}
 
@@ -48,12 +57,17 @@ The concept that I used as my starting point for the project was that of a finit
 
 After implementing the basic gameplay with FSMs included, I continued to experiment to improve upon the game's original design, as originally all the collisions were handled using collision boxes, but when I realized that this was causing a physics issue, I switched to raytracing to help improve the functionality of the collision and this worked wonders to fix the error.
 
+## Final AI implementation
+<!--The final and most important part of my implementation is the tendencies feature. I wanted all the player to have their own unique and totally malleable features controllable in-engine, allowing me, the designer, to make simple changes to their abilities, speed, force they put on the ball, to help create the perfect enemies for each level.-->
+
+<!--I did this by giving each of the AI their own variable, and making the shots unique individual resources, or in unity terms, scriptable objects, that each had their own settings for the different types of shots that could be executed.--> 
+
+<!--For the AI's decision-making there were numbers that would decide how likely the AI was to use a certain shot, and a variable for how high the ball should be as a consideration for this shot as well. the code would then give a random number, and depending on where this number falls in the range of the tendencies, and how high or low the ball is, the AI would then decide what shot it would use. This worked very effectively to make the AI decide how it would attack the player, and to create variants of this attack, allowing each AI to have a unique attack pattern.-->
+
+In the final AI implementation of my 3D Table Tennis game, I focused on creating unique and customizable characteristics for each AI opponent to make gameplay more dynamic. I achieved this by assigning specific variables to each AI, allowing me to adjust attributes like speed and the force applied to the ball. I defined different shot types as distinct resources with tailored settings. The AI's decision-making process relied on probabilistic logic, using predefined tendencies and the ball's height to influence shot selection. By generating random numbers and comparing them to these tendencies, I ensured that each opponent exhibited unique attack patterns, adding variety to the gameplay experience.
+
+{% include gallery id = "gallery2" caption="A rough visualization of the stats difference for each AI enemy" %}
+
+
 ## Art/ Effects
 I also made use of godot's shader system to create a simple slash vfx for the forehand and backhand(A bit of tennis lingo for you) and to create a trail for the ball, as well as to help me create multiple characters, using a simple color masking shader to allow me to alter the color of my initial texture to help easily create variants of my original character to create my enemies for the different levels.
-
-## Final AI implementation
-The final and most important part of my implementation is the tendencies feature. I wanted all the player to have their own unique and totally malleable features controllable in-engine, allowing me, the designer, to make simple changes to their abilities, speed, force they put on the ball, to help create the perfect enemies for each level.
-
-I did this by giving each of the AI their own variable, and making the shots unique individual resources, or in unity terms, scriptable objects, that each had their own settings for the different types of shots that could be executed. 
-
-For the AI's decision-making there were numbers that would decide how likely the AI was to use a certain shot, and a variable for how high the ball should be as a consideration for this shot as well. the code would then give a random number, and depending on where this number falls in the range of the tendencies, and how high or low the ball is, the AI would then decide what shot it would use. This worked very effectively to make the AI decide how it would attack the player, and to create variants of this attack, allowing each AI to have a unique attack pattern.
