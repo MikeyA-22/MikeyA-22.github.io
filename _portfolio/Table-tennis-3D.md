@@ -2,13 +2,16 @@
 title: "Table tennis 3D"
 excerpt: "A personal project for a week long game jam inspired by games like rockstar table tennis and mario tennis aces, smash into an immersive and challenging table tennis experience."
 header:
-  image: /assets/images/Table-tennis-level1.png
-  teaser: assets/images/Table-tennis-level1.png
+  video: 
+    id: 8LHRVPG-6gs
+    provider: youtube
+  #image: /assets/images/Table-tennis-level1.png
+  teaser: assets/images/tt_level1.jpg
 sidebar:
   - title: "Role"
     text: "Sole creator: Designer, Developer and Artist."
   - title: "Responsibilities"
-    text: "Creating about everything in the game, apart from the rigging of the character, this was Mixamo."
+    text: "Character Design, Artificial Intelligence Programming, Shaders, VFX, Animation"
   - title: "Tools Used"
     text: "Godot, Figma, GDScript"
 gallery:
