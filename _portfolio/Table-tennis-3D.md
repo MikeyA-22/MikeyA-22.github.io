@@ -39,7 +39,8 @@ I decided to use Godot not only as a challenge to myself, though I had some expe
 
 ## Playtesting
 Due to the short time period, my playtesters were mostly my friends and roommates! I was able to make the following changes due to their contribution:
-* **Targeting system**: The targeting originally featured
+* **Targeting system**: The targeting originally featured an aim that moved to where you aimed at at a set speed, but this was too slow, so I made it snap from one spot to another on the table
+* **Statistics Balancing**: The power used by each player and AI was tested by my friends, and through this we were able to determine what is a good balance of power and control.
 
 ## Implementation
 
