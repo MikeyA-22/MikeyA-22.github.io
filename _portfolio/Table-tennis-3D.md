@@ -32,10 +32,14 @@ As a big fan of sports games, NBA 2K,EA F.C., Madden and the like, I would alway
 
 My points of inspiration for this game comes from two games in particular, Mario tennis aces, and rockstar present: Table tennis. Both these games have crafted characters with such different play-styles and attacks from one another that I knew I had to see for myself how this could possibly work.
 
-I decided to use Godot as a challenge to myself, though I had some experience with it in the past, it was not my go-to engine, but also for the easy readability and deployment of GD script, which allowed for rapid development and iteration, making it the perfect engine for quickly creating in a game jam environment.
+I decided to use Godot not only as a challenge to myself, though I had some experience with it in the past, it was not my go-to engine, but also for the easy readability and deployment of GD script, which allowed for rapid development and iteration, making it the perfect engine for quickly creating in a game jam environment.
 
 
-{% include gallery caption="The three levels and AI enemies in the game." %}
+{% include gallery layout: "full" caption="The three levels and AI enemies in the game." %}
+
+## Playtesting
+Due to the short time period, my playtesters were mostly my friends and roommates! I was able to make the following changes due to their contribution:
+* **Targeting system**: The targeting originally featured
 
 ## Implementation
 
