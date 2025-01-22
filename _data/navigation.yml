@@ -14,38 +14,22 @@ main:
 skills:
   - title: "SKILLS"
     children:
-      - title: ""
-        text: "Unreal Engine"
+      - title: "Unreal Engine"
       - title: "Godot"
-        
       - title: "Unity Engine"
-        
       - title: "C++"
-        
       - title: "C#"
-        
       - title: "GDScript"
-        
       - title: "Blender"
-        
       - title: "Git"
-        
       - title: "Python"
-        
       - title: "Java"
-        
       - title: "H/GLSL"
-        
       - title: "Substance Designer & Painter"
-        
       - title: "Photoshop"
-        
       - title: "JetBrains"
-        
       - title: "Visual Studio"
-        
-      - title: "Aseprite"
-        
+      - title: "Aseprite"        
       
 Responsibilities:
   - title: "Responsibilities"
