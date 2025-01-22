@@ -15,37 +15,37 @@ skills:
   - title: "SKILLS"
     children:
       - title: "Unreal Engine"
-        url: /
+        
       - title: "Godot"
-        url: /
+        
       - title: "Unity Engine"
-        url: /
+        
       - title: "C++"
-        url: /
+        
       - title: "C#"
-        url: /
+        
       - title: "GDScript"
-        url: /
+        
       - title: "Blender"
-        url: /
+        
       - title: "Git"
-        url: /
+        
       - title: "Python"
-        url: /
+        
       - title: "Java"
-        url: /
+        
       - title: "H/GLSL"
-        url: /
+        
       - title: "Substance Designer & Painter"
-        url: /
+        
       - title: "Photoshop"
-        url: /
+        
       - title: "JetBrains"
-        url: /
+        
       - title: "Visual Studio"
-        url: /
+        
       - title: "Aseprite"
-        url: /
+        
       
 Responsibilities:
   - title: "Responsibilities"
