@@ -14,7 +14,7 @@ main:
 skills:
   - title: "SKILLS"
     children:
-      - text: "Unreal Engine"
+      - title: "Unreal Engine"
       - title: "Godot"
       - title: "Unity Engine"
       - title: "C++"
