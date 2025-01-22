@@ -14,49 +14,49 @@ main:
 skills:
   - title: "SKILLS"
     children:
-      - text: "Unreal Engine"
+      - title:
+        text: "Unreal Engine"
+      - title: "Godot"
         
-      - text: "Godot"
+      - title: "Unity Engine"
         
-      - text: "Unity Engine"
+      - title: "C++"
         
-      - text: "C++"
+      - title: "C#"
         
-      - text: "C#"
+      - title: "GDScript"
         
-      - text: "GDScript"
+      - title: "Blender"
         
-      - text: "Blender"
+      - title: "Git"
         
-      - text: "Git"
+      - title: "Python"
         
-      - text: "Python"
+      - title: "Java"
         
-      - text: "Java"
+      - title: "H/GLSL"
         
-      - text: "H/GLSL"
+      - title: "Substance Designer & Painter"
         
-      - text: "Substance Designer & Painter"
+      - title: "Photoshop"
         
-      - text: "Photoshop"
+      - title: "JetBrains"
         
-      - text: "JetBrains"
+      - title: "Visual Studio"
         
-      - text: "Visual Studio"
-        
-      - text: "Aseprite"
+      - title: "Aseprite"
         
       
 Responsibilities:
   - title: "Responsibilities"
     children:
-    - text: "* Created UI/UX designs for the game"
-      
-    - text: "* Collaborated with teammates to create game ideas and design concepts used in game"
-      
-    - text: "* Made the characters, objects, animations and environments in the game"
-      
-    - text: "* Implemented basic lighting concepts to give the game a good feel"
-          
-    - text: "* Created concept art for the game characters and created the game's overall theme"
-      
+    - title: "* Created UI/UX designs for the game"
+      url: /
+    - title: "* Collaborated with teammates to create game ideas and design concepts used in game"
+      url: /
+    - title: "* Made the characters, objects, animations and environments in the game"
+      url: /
+    - title: "* Implemented basic lighting concepts to give the game a good feel"
+      url: /    
+    - title: "* Created concept art for the game characters and created the game's overall theme"
+      url: /
