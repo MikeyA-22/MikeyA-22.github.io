@@ -5,7 +5,7 @@ header:
   video:
     id: HIg-LVD8dmo
     provider: youtube
-  teaser: assets/images/fenris-title.png
+  teaser: assets/images/those who know.png
 sidebar:
   - title: "Role"
     image:
