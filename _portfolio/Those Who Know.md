@@ -2,8 +2,10 @@
 title: "Those Who Know"
 excerpt: "A multiplayer trivia game"
 header:
-  image: assets/images/those who know.png
-  teaser: assets/images/those who know.png
+  video:
+    id: HIg-LVD8dmo
+    provider: youtube
+  teaser: assets/images/fenris-title.png
 sidebar:
   - title: "Role"
     image:
@@ -11,16 +13,6 @@ sidebar:
     text: "Designer, Developer (Frontend)"
   - title: "Responsibilities"
     text: "Created the end-game screen and added sound effects for button interactions and player responses (e.g., correct or incorrect answers). Implemented progress bars in the leaderboard to track scores and the current ranking. Contributed to resolving merge conflicts and overall polish."
-gallery:
-  - url: /assets/images/Pomodoro-timer-page.png
-    image_path: assets/images/Pomodoro-timer-page.png
-    alt: "placeholder image 1"
-  - url: /assets/images/Pomodoro-timer-longbreak.png
-    image_path: assets/images/Pomodoro-timer-longbreak.png
-    alt: "placeholder image 2"
-  - url: /assets/images/Pomodoro-timer-shortbreak.png
-    image_path: assets/images/Pomodoro-timer-shortbreak.png
-    alt: "placeholder image 3"
 ---
 
 ## Project Information
