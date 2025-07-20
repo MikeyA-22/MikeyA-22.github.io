@@ -2,9 +2,7 @@
 title: "Those Who Know"
 excerpt: "A multiplayer trivia game"
 header:
-  video:
-    id: HIg-LVD8dmo
-    provider: youtube
+  image: assets/images/those who know.png
   teaser: assets/images/those who know.png
 sidebar:
   - title: "Role"
@@ -14,6 +12,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Created the end-game screen and added sound effects for button interactions and player responses (e.g., correct or incorrect answers). Implemented progress bars in the leaderboard to track scores and the current ranking. Contributed to resolving merge conflicts and overall polish."
 ---
+[Check it out here]()
 
 ## Project Information
 
