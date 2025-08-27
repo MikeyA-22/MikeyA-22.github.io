@@ -89,7 +89,7 @@ As the team's artist, I was tasked with creating virtually all the 3D assets in 
 I rigged and animated all the characters in the Game.
 
 All the animations were done by me personally with blender and cascadeur. I used cascadeur to help block out more complex animations, such as the skeleton enemies walk
-Majority of the characters were rigged with Mixamo, but for special cases where Mixamo could not match the proportions, like the rock monster and the wolf, I had rigged personally.
+Majority of the characters were rigged with Mixamo, but for special cases where Mixamo could not match the proportions, like the rock monster and the wolf, I rigged personally.
 
 <div style="display: flex; justify-content: space-between;">
   <iframe src="https://drive.google.com/file/d/18eREtWtLDXI1qvew9EnOkglgi1DDirOQ/preview" width="200%" height="240" allow="autoplay"></iframe>
