@@ -80,7 +80,7 @@ The UI features a simple text displayed when the player needs information, for e
 
 ## Asset Modelling(Environment And Character Art)
 
-As the lead (and only) artist on the team, I was tasked with creating virtually all the 3D assets in the game, including the characters and environmental assets.
+As the team's artist, I was tasked with creating virtually all the 3D assets in the game, including the characters and environmental assets.
 
 {% include gallery caption="Some 3D Assets I modelled." %}
 
