@@ -2,10 +2,10 @@
 title: "Graphics Renderer"
 excerpt: "A 3D graphic rendering application made in OpenGL with and adjustable light system"
 header:
-video:
-id: br7au4nEp9M
-provider: youtube
-teaser: assets/images/graphics_renderer.png
+  video:
+    id: br7au4nEp9M
+    provider: youtube
+  teaser: assets/images/graphics_renderer.png
 
 sidebar:
   - title: "Role"
