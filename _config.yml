@@ -21,7 +21,7 @@ title                    : "Michael O.A."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael O. Atteh"
-description              : "Game Designer | Technical Artist"
+description              : "Gameplay Programmer | Technical Artist"
 url                      : https://mikeya-22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Michael Atteh"
   avatar           : /assets/images/face_card.JPG
-  bio              : "I am an aspiring Game Designer and Technical Artist"
+  bio              : "I am an aspiring Gameplay Programmer, Designer and Technical Artist"
   location         : "Oshawa, ON"
   email            :
 

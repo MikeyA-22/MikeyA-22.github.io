@@ -75,7 +75,7 @@ feature_row4:
 ---
 
 
-I'm Michael Atteh, a Game Designer and Technical Artist, currently studying Game Development and Interactive Media with a minor in Data Science at Ontario Tech University. I use my skills in programming, art and design to create fun and engaging games, that captivate players and immerses them in unique, interactive experiences.
+I'm Michael Atteh, a Gameplay Programmer and Technical Artist, currently studying Game Development and Interactive Media with a minor in Data Science at Ontario Tech University. I use my skills in programming, art and design to create fun and engaging games, that captivate players and immerses them in unique, interactive experiences.
 
 My expertise in gameplay programming, shaders vfx and lighting, and generating procedural content allows me to push the boundaries of visual storytelling and create visually stunning, technically sophisticated game environments.
 
