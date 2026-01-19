@@ -1,6 +1,6 @@
 ---
-title: "Graphics Renderer"
-excerpt: "A 3D graphic rendering application made in OpenGL with and adjustable light system"
+title: "Simple Graphics Renderer"
+excerpt: "A 3D graphic rendering application made in OpenGL with an adjustable light system"
 header:
   video:
     id: br7au4nEp9M
