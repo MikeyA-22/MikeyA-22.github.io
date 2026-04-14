@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/front-page-pic.png
   actions:
-    - label: "CHECK 'EM OUT!"
+    - label: "CHECK OUT MY WORK!"
       url: "/portfolio/"
   caption: ""
  
