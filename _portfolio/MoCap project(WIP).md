@@ -1,5 +1,5 @@
 ---
-title: "MoCap project(WIP): MyCap"
+title: "IMU Motion Tracker: MiCap"
 excerpt: "A DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation."
 header:
     video:
