@@ -3,17 +3,17 @@ title: "IMU Motion Tracker: MiCap"
 excerpt: "A DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation."
 header:
     video:
-        id:
+        id: https://youtu.be/V9PdawP01Ko
         provider: youtube
-    teaser: assets/images/work-in-progress.png
+    teaser: assets/images/MiCapFrontPage.png
 
 sidebar:
   - title: "Role"
-    text: "Sole Developer"
+    text: "Developer"
   - title: "Responsibilities"
-    text: "Project Research, Network engineering, Rigging, Hardware design and assembly"
+    text: "Project Research, Network engineering, Rigging, Hardware design and assembly, Embedded Systems"
   - title: "Tools Used"
-    text: "Unreal, C++, Arduino, ESP32, UDP Sockets"
+    text: "Unity, C++, Arduino, ESP32, UDP Protocol"
 ---
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
@@ -21,13 +21,13 @@ The project combines embedded hardware, networking, and animation pipelines to s
 
 ## My Role & Responsibilities
 
-* Designed modular sensor units using ESP microcontrollers, BNO085 IMUs, and LiPo batteries.
+* Designed modular sensor units using ESP32 microcontrollers, BNO085 IMUs(Inertial Measurement Units), and LiPo batteries.
 
 * Implemented a UDP networking pipeline in C++ for reliable real-time data transfer to a PC.
 
 * Developed threaded server architecture to handle multiple data streams simultaneously.
 
-* Created a prototype animation rig in Unreal to test motion playback and calibration.
+* Created a prototype animation rig in Unity to test motion playback and calibration.
 
 
 ## Achievements So Far
@@ -36,7 +36,7 @@ The project combines embedded hardware, networking, and animation pipelines to s
 
 * UDP client/server runs with low latency and supports multiple IMU streams.
 
-* Proof-of-concept rig integration in Unreal Engine.
+* Proof-of-concept rig integration in Unity Engine.
 
 ## Next Steps
 
@@ -60,4 +60,4 @@ Explore accessibility applications, such as alternative interfaces for creators 
 
 ## Reflection
 
-This project highlights my ability to work at the intersection of hardware, software, and interactive media. Beyond its technical scope, I am interested in how low-cost mocap can expand access to creative tools, aligning with Reframe’s mission to make games and experiences more inclusive and socially impactful.
+This project highlights my ability to work at the intersection of hardware, software, and interactive media. Beyond its technical scope, I am interested in how low-cost mocap can expand access to creative tools, allowing for people to gain the opportunity to use powerful tech with a lower barrier of entry.
