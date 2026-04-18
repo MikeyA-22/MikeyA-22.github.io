@@ -14,12 +14,15 @@ sidebar:
     text: "Project Research, Network engineering, Rigging, Hardware design and assembly, Embedded Systems"
   - title: "Tools Used"
     text: "Unity, C++, Arduino, ESP32, UDP Protocol"
+gallery:
+  - url: assets/images/mocapmodulepics.png
+    image_path: assets/images/mocapmodulepics.png
 ---
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
-The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine. While still in progress, it demonstrates my ability to design complex systems, solve integration challenges, and iterate on technical workflows.
+The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine.
 
-## My Role & Responsibilities
+# My Role & Responsibilities
 
 * Designed modular sensor units using ESP32 microcontrollers, BNO085 IMUs(Inertial Measurement Units), and LiPo batteries.
 
@@ -30,7 +33,7 @@ The project combines embedded hardware, networking, and animation pipelines to s
 * Created a prototype animation rig in Unity to test motion playback and calibration.
 
 
-## Achievements So Far
+# Achievements So Far
 
 * Sensor prototypes successfully transmit rotation data wirelessly.
 
@@ -39,12 +42,9 @@ The project combines embedded hardware, networking, and animation pipelines to s
 * Proof-of-concept rig integration in Unity Engine.
 
 
-<figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/mocapmodulepics.jpg" alt="">
-  <figcaption>Current State of the Modules</figcaption>
-</figure>
+{% include gallery layout = "half" caption="The Current state of the Modules" %}
 
-## Next Steps
+# Next Steps
 
 * Expand from 2–3 sensors to a full-body tracking system.
 
@@ -54,7 +54,7 @@ The project combines embedded hardware, networking, and animation pipelines to s
 
 Explore accessibility applications, such as alternative interfaces for creators or performers who may not have access to expensive mocap systems.
 
-## Skills Demonstrated
+# Skills Demonstrated
 
 * Programming & Systems Design – UDP networking, threading, real-time data handling.
 
