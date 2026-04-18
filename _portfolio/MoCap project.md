@@ -3,7 +3,7 @@ title: "IMU Motion Tracker: MiCap"
 excerpt: "A DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation."
 header:
     video:
-        id: https://youtu.be/V9PdawP01Ko
+        id: V9PdawP01Ko
         provider: youtube
     teaser: assets/images/MiCapFrontPage.png
 
