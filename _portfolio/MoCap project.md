@@ -38,6 +38,12 @@ The project combines embedded hardware, networking, and animation pipelines to s
 
 * Proof-of-concept rig integration in Unity Engine.
 
+
+<figure class="align-right">
+<img src="{{ site.url }}{{ site.baseurl }}assets/images/mocapmodulepics.jpg" alt="">
+  <figcaption>Current State of the Modules</figcaption>
+</figure>
+
 ## Next Steps
 
 * Expand from 2–3 sensors to a full-body tracking system.
