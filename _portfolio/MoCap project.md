@@ -11,9 +11,9 @@ sidebar:
   - title: "Role"
     text: "Developer"
   - title: "Responsibilities"
-    text: "Project Research, Network engineering, Rigging, Hardware design and assembly, Embedded Systems"
+    text: "Research, Network engineering, Rigging, Programming, Debugging, Modelling, Soldering, Embedded Systems"
   - title: "Tools Used"
-    text: "Unity, C++, Arduino, ESP32, UDP Protocol"
+    text: "Unity, C++, Arduino, ESP32, UDP Protocol, Fusion 360, KiCad"
 gallery:
   - url: assets/images/mocapmodulepics.png
     image_path: assets/images/mocapmodulepics.png
