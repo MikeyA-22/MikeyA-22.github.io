@@ -17,7 +17,7 @@ sidebar:
 ---
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
-The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unreal Engine. While still in progress, it demonstrates my ability to design complex systems, solve integration challenges, and iterate on technical workflows.
+The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine. While still in progress, it demonstrates my ability to design complex systems, solve integration challenges, and iterate on technical workflows.
 
 ## My Role & Responsibilities
 
@@ -54,7 +54,7 @@ Explore accessibility applications, such as alternative interfaces for creators 
 
 * Hardware Integration – ESP microcontrollers, IMUs, custom power management.
 
-* Animation Pipelines – Rigging & data playback in Unreal.
+* Animation Pipelines – Rigging & data playback in Unity.
 
 * Problem-Solving & Iteration – Debugging latency, packet loss, and synchronization issues.
 
