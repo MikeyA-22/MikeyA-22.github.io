@@ -1,11 +1,11 @@
 ---
-title: "Fenris"
-excerpt: "An isometric hack and slash action-adventure game where the player must traverse a frozen wasteland and defeat various types of enemies."
+title: "Teraphobia"
+excerpt: "A first-person asymmetric multiplayer game where up to 3 Survivors and 1 Void Monster battle it in an abandoned facility."
 header:
   video:
-    id: A_HaC_iI9Qw
+    id: Ah3SFiK0x1s
     provider: youtube
-  teaser: assets/images/fenris-title.png
+  teaser: assets/images/teraphobia.png
   
 sidebar:
   - title: "Role"
