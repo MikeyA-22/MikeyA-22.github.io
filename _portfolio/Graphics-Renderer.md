@@ -9,7 +9,7 @@ header:
 
 sidebar:
   - title: "Role"
-    text: "Network Programmer, Gameplay Programmer, Hardware technician, Artist, Animator, everything else"
+    text: "Graphics Programmer"
   - title: "Responsibilities"
     text: "Using my OpenGL skills to create and render objects and shaders to render lights and their locations."
   - title: "Tools Used"
