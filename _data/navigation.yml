@@ -6,10 +6,11 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-   #- title: "About"
-    # url: /splash-page/
+   - title: "Art"
+     url: /splash-page/
    - title: "Projects"
      url: /portfolio/
+   
      
 skills:
   - title: "SKILLS"
