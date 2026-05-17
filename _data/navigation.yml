@@ -7,7 +7,7 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
    - title: "Art"
-     url: /Art/
+     url: /art/
    - title: "Projects"
      url: /portfolio/
    

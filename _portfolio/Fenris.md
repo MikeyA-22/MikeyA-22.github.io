@@ -101,8 +101,9 @@ Majority of the characters were rigged with Mixamo, but for special cases where 
 I created some of the VFX and shaders used in the game including:
 
 * The water depth, which had to be adjusted for the isometric view, so depth could still be seen in the water.
-* The slash vfx
+* Slash Attack VFX
 * The dappled lighting, made using cloud cookies, as seen in games like Tunic and Death's door
+* Cloth Physics! not used in final version, but very cool
 
 <div style="display: flex; justify-content: space-between;">
   <iframe src="https://drive.google.com/file/d/11NUaRDnglhB44KkTzfWWIbDYVbY3HRdm/preview" width="200%" height="240" allow="autoplay"></iframe>
