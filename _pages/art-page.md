@@ -1,7 +1,7 @@
 ---
 title: Art
 layout: collection
-permalink: /portfolio/
+permalink: /art/
 collection: portfolio
 entries_layout: grid
 classes: wide
