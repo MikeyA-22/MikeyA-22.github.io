@@ -32,11 +32,11 @@ time constraints.
 As the artist, I was tasked with creating a Level that looked and felt like an abandoned lab.
 
 <figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="" style="width: 20%">
   <figcaption>Original Set Test</figcaption>
 </figure>
 
-I made use of Substance Designer to create seamless textures that could be reused throughout the environment, 
-as well as other set dressing, that could be used to create a large and seamless environment. 
+Using Substance Designer, I was able to create seamless textures and assets 
+that could be used throughout the environment.
 
 
