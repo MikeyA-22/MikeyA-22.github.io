@@ -51,7 +51,7 @@ As the Lead Artist, I had to:
 </figure>
 
 
-{% include gallery id = "gallery" layout = "full"  caption="Various works" %}
+{% include gallery id = "gallery" layout = "half"  caption="Various works" %}
 
 ![Image from Portfolio recomp](https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200) ![Image from Portfolio recomp](https://app.milanote.com/media/p/images/1WoH051k9R2V5F/Q6J/void%20monster%20concept.png?w=200)
 
