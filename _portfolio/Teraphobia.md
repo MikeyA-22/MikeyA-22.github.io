@@ -20,7 +20,7 @@ gallery:
     alt: "concept art"
   - url: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
   - image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
-    alt: "ice_bridge"
+    alt: "concept art"
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}
 
@@ -45,10 +45,7 @@ As the Lead Artist, I had to:
 * Coordinate with both programming and design teams to make sure the assets would work within the engine.
 * Oversee the assets being produced by myself and my colleague.
 
-<figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="" style="width: 50%">
-  <figcaption>Original Set Test</figcaption>
-</figure>
+
 
 
 {% include gallery id = "gallery" layout = "half"  caption="Various works" %}
