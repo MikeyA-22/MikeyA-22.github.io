@@ -36,7 +36,7 @@ As the artist, I was tasked with creating a Level that looked and felt like an a
   <figcaption>Original Set Test</figcaption>
 </figure>
 
-I made use of Substance Designer to create seamless textures that could be reused throughout the environment for the walls,
-T
+I made use of Substance Designer to create seamless textures that could be reused throughout the environment, 
+as well as other set dressing, that could be used to create a large and seamless environment. 
 
 
