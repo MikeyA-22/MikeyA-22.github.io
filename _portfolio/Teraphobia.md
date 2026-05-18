@@ -29,10 +29,6 @@ which would have allowed us to create multiple levels quickly without the need t
 have more hands on deck for overall game design, But had to scope down to one level, due to our usual foe, 
 time constraints. 
 
-
-
-
-
 ## Art
 
 As the Lead Artist, I had to:
@@ -40,8 +36,8 @@ As the Lead Artist, I had to:
 * Create seamless textures that could be used throughout the environment, giving us a distinct style. 
 * Create some concept art for the game, including the monster's concept art.
 * Design and Create the Character.
-* Coordinate with both programming and design teams to make sure the assets would work within the engine
-* Oversee the art being produced by myself and my colleague.
+* Coordinate with both programming and design teams to make sure the assets would work within the engine.
+* Oversee the assets being produced by myself and my colleague.
 
 <figure class="align-right">
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="" style="width: 50%">
