@@ -21,6 +21,14 @@ gallery:
   - url: assets/images/void20concept_other.png
     image_path: assets/images/void20concept_other.png
     alt: "concept art"
+  - url: assets/images/teraphobia-set-test.png
+    image_path: assets/images/teraphobia-set-test.png
+    alt: "set test"
+    caption: "Caption test"
+  - url: assets/images/OGcharacter-Terraphobia.png
+    image_path: assets/images/OGcharacter-Terraphobia.png
+    alt: "set test"
+
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}
 
