@@ -36,7 +36,7 @@ gallery2:
 ---
 
 ## Research and Development
-As a big fan of sports games, NBA 2K,EA F.C., Madden and the like, I would always ask myself, how does the AI replicate the player's tendencies so well? To try and answer this question for myself, I decided to use a simple game as a first look into the world of creating different variations of a simple AI for games.
+As a big fan of sports games, NBA 2K, EA F.C., Madden and the like, I would always ask myself, how does the AI replicate the player's tendencies so well? To try and answer this question for myself, I decided to use a simple game as a first look into the world of creating different variations of a simple AI for games.
 
 [DOWNLOAD IT HERE!](https://mikey-a.itch.io/table-tennis){: .btn .btn--primary}
 
