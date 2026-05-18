@@ -47,7 +47,7 @@ As the Lead Artist, I had to:
 
 
 
-<div style="max-width: 20%">
+<div style="max-width: 50%">
     {% include gallery id = "gallery" layout = "half"  caption="Various works" %}
 </div>
 
