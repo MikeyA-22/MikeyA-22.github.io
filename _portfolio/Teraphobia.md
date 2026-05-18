@@ -19,7 +19,7 @@ gallery:
     image_path: assets/images/void20concept.png
     alt: "concept art"
   - url: assets/images/void20concept.png
-    image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?
+    image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=20%
     alt: "concept art"
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}
