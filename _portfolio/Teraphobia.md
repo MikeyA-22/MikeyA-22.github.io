@@ -32,7 +32,7 @@ time constraints.
 As the artist, I was tasked with creating a Level that looked and felt like an abandoned lab.
 
 <figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}assets/images/teraphobia-set-test.png" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="">
   <figcaption>Original Set Test</figcaption>
 </figure>
 
