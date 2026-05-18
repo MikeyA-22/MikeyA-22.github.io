@@ -28,11 +28,14 @@ gallery:
   - url: assets/images/OGcharacter-Terraphobia.png
     image_path: assets/images/OGcharacter-Terraphobia.png
     alt: "set test"
+  - url: assets/images/final_Character.png
+    image_path: assets/images/final_Character.png
+    alt: "set test"    
 
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}
 
-Based in a post apocalyptic world, you and your team fight against a monster to 
+Based in a post apocalyptic world, you and your team fight against another player, playing the monster, to 
 collect all the batteries and escape the area!
 Made with a team of 7, 
 Inspired by games such as Dead By Daylight and Lethal Company.
@@ -57,7 +60,22 @@ As the Lead Artist, I had to:
 
 <div style="max-width: 50%">
     {% include gallery id = "gallery"  caption="Various works" %}
+
 </div>
+
+## AI Programming
+
+While the game did not originally feature enemy AI, a teammate and I added an AI monster version.
+
+This version made use of two Artifical Intelligence Systems, a custom behaviour tree and a custom GOAP(Goal Oriented Action Planner) System.
+
+We accomplished this by first creating the behaviour tree system, then making a GOAPnode as a custom node, which could have actions as children, and internally planned the best possible action depending on the moment.
+
+
+This allowed for the enemy AI to operate based on the current state of the world to act dynamically and uniquely when attacking the enemy.
+
+Below is a Diagram outining our system and it's implementation.
+
 
 
 
