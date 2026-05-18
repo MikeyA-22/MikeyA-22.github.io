@@ -16,10 +16,10 @@ sidebar:
     text: " Unity, C#, HLSL, Blender, Cascadeur, Figma, Krita, GitKraken, Gitbash, Github Desktop, Visual Studio, Jetbrains rider, Asana etc."
 gallery:
   - url: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
-  - image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
+    image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
     alt: "concept art"
   - url: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
-  - image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
+    image_path: https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=200
     alt: "concept art"
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}

@@ -67,7 +67,13 @@ After implementing the basic gameplay with FSMs included, I continued to experim
 
 <!--For the AI's decision-making there were numbers that would decide how likely the AI was to use a certain shot, and a variable for how high the ball should be as a consideration for this shot as well. the code would then give a random number, and depending on where this number falls in the range of the tendencies, and how high or low the ball is, the AI would then decide what shot it would use. This worked very effectively to make the AI decide how it would attack the player, and to create variants of this attack, allowing each AI to have a unique attack pattern.-->
 
-In the final AI implementation of my 3D Table Tennis game, I focused on creating unique and customizable characteristics for each AI opponent to make gameplay more dynamic. I achieved this by assigning specific variables to each AI, allowing me to adjust attributes like speed and the force applied to the ball. I defined different shot types as distinct resources with tailored settings. The AI's decision-making process relied on probabilistic logic, using predefined tendencies and the ball's height to influence shot selection. By generating random numbers and comparing them to these tendencies, I ensured that each opponent exhibited unique attack patterns, adding variety to the gameplay experience.
+In the final AI implementation of my 3D Table Tennis game, I focused on creating unique and customizable characteristics for each AI opponent to make gameplay more dynamic. 
+
+I achieved this by assigning specific variables to each AI, allowing me to adjust attributes like speed and the force applied to the ball. 
+
+I defined different shot types as distinct resources(scriptable objects in unity terms) with tailored settings. 
+
+The AI's decision-making process relied on probabilistic logic, using predefined tendencies and the ball's height to influence shot selection. By generating random numbers and comparing them to these tendencies, I ensured that each opponent exhibited unique attack patterns, adding variety to the gameplay experience.
 
 {% include gallery id = "gallery2" caption="A rough visualization of the stats difference for each AI enemy" %}
 
