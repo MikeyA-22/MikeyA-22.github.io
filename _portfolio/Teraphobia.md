@@ -23,20 +23,40 @@ collect all the batteries and escape the area!
 Made with a team of 7, 
 Inspired by games such as Dead By Daylight and Lethal Company.
 
-# Research and Development
+## Research and Development
 We initially planned for the game to have procedural level generation, 
 which would have allowed us to create multiple levels quickly without the need to 
 have more hands on deck for overall game design, But had to scope down to one level, due to our usual foe, 
 time constraints. 
 
-As the artist, I was tasked with creating a Level that looked and felt like an abandoned lab.
+
+
+
+
+## Art
+
+As the Lead Artist, I had to:
+
+* Create seamless textures that could be used throughout the environment, giving us a distinct style. 
+* Create some concept art for the game, including the monster's concept art.
+* Design and Create the Character.
+* Coordinate with both programming and design teams to make sure the assets would work within the engine
+* Oversee the art being produced by myself and my colleague.
 
 <figure class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="" style="width: 20%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/teraphobia-set-test.png" alt="" style="width: 50%">
   <figcaption>Original Set Test</figcaption>
 </figure>
 
-Using Substance Designer, I was able to create seamless textures and assets 
-that could be used throughout the environment.
+
+
+
+![Image from Portfolio recomp](https://app.milanote.com/media/p/images/1WoH051k9R2V5G/bjf/void%20monster%20concept_other.png?w=800)
+
+![Image from Portfolio recomp](https://app.milanote.com/media/p/images/1WoH051k9R2V5F/Q6J/void%20monster%20concept.png?w=800)
+
+
+
+
 
 
