@@ -31,7 +31,10 @@ gallery:
   - url: assets/images/final_Character.png
     image_path: assets/images/final_Character.png
     alt: "set test"    
-
+gallery2:
+  - url: assets/images/Terphobia-AI-Diagram.jpeg
+    image_path: assets/images/Terphobia-AI-Diagram.jpeg
+    alt: "set test"    
 ---
 [Check it out here!](https://www.gamecon.ca/2025/third/100-ideas){: .btn .btn--primary}
 
@@ -67,17 +70,19 @@ As the Lead Artist, I had to:
 
 While the game did not originally feature enemy AI, a teammate and I added an AI monster version.
 
-This version made use of two Artifical Intelligence Systems, a custom behaviour tree and a custom GOAP(Goal Oriented Action Planner) System.
+This version made use of two Artificial Intelligence Systems, a custom behaviour tree and a custom GOAP (Goal Oriented Action Planner) System.
 
-We accomplished this by first creating the behaviour tree system, then making a GOAPnode as a custom node, which could have actions as children, and internally planned the best possible action depending on the moment.
+We accomplished this by first creating the behaviour tree system, then making a GOAPNode as a custom node, which could have actions as children, and internally planned the best possible action depending on the moment.
 
 
 This allowed for the enemy AI to operate based on the current state of the world to act dynamically and uniquely when attacking the enemy.
 
-Below is a Diagram outining our system and it's implementation.
+Below is a Diagram outlining our system and it's implementation.
 
 
-
+<div style="max-width: 50%">
+    {% include gallery id = "gallery2"  caption="Various works" %}
+</div>
 
 
 
