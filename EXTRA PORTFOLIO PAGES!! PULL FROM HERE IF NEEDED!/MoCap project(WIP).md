@@ -14,6 +14,24 @@ sidebar:
     text: "Project Research, Network Engineering, Rigging, Hardware design and assembly"
   - title: "Tools Used"
     text: "Unity, C++, Arduino, ESP32, UDP Sockets"
+gallery:
+  - url: assets/images/3D.png
+    image_path: assets/images/3D.png
+  - url: assets/images/PCB Design.png
+    image_path: assets/images/PCB Design.png
+  - url: assets/images/Schematic design.png
+    image_path: assets/images/Schematic design.png
+  - url: assets/images/Technical Drawing.png
+    image_path: assets/images/Technical Drawing.png
+gallery2:
+  - url: assets/images/3D.png
+    image_path: assets/images/3D.png
+  - url: assets/images/PCB Design.png
+    image_path: assets/images/PCB Design.png
+  - url: assets/images/Schematic design.png
+    image_path: assets/images/Schematic design.png
+  - url: assets/images/Technical Drawing.png
+    image_path: assets/images/Technical Drawing.png
 ---
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
@@ -39,6 +57,10 @@ The project combines embedded hardware, networking, and animation pipelines to s
 * UDP client/server runs with low latency and supports multiple IMU streams.
 
 * Proof-of-concept rig integration in Unity.
+
+<div style="max-width: 50%">
+    {% include gallery id = "gallery"  caption="PCB, schematics, technical drawings" %}
+</div>
 
 ## Next Steps
 
