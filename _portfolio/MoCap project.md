@@ -15,6 +15,17 @@ sidebar:
   - title: "Tools Used"
     text: "Unity, Unreal, C++, Arduino, ESP32, UDP Protocol, Fusion 360, KiCad"
 gallery:
+  - url: assets/images/3D.png
+    image_path: assets/images/3D.png
+  - url: assets/images/PCB Design.png
+    image_path: assets/images/PCB Design.png
+  - url: assets/images/Schematic design.png
+    image_path: assets/images/Schematic design.png
+  - url: assets/images/Technical Drawing.png
+    image_path: assets/images/Technical Drawing.png
+gallery2:
+  - url: assets/images/startingpoint.png
+    image_path: assets/images/startingpoint.png
   - url: assets/images/mocapmodulepics.png
     image_path: assets/images/mocapmodulepics.png
 ---
@@ -32,6 +43,9 @@ The project combines embedded hardware, networking, and animation pipelines to s
 
 * Created a prototype animation rig in Unity to test motion playback and calibration.
 
+<div style="max-width: 50%">
+    {% include gallery id = "gallery"  caption="PCB, schematics, technical drawings" %}
+</div>
 
 ## Achievements So Far
 
@@ -42,7 +56,7 @@ The project combines embedded hardware, networking, and animation pipelines to s
 * Proof-of-concept rig integration in Unity Engine.
 
 
-{% include gallery layout = "half" caption="The Current state of the Modules" %}
+{% include gallery id = "gallery2" layout = "full" caption="First Iteration and Current Iteration" %}
 
 ## Next Steps
 
