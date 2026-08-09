@@ -21,7 +21,7 @@ title                    : "Michael O.A."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael O. Atteh"
-description              : "Gameplay Programmer | Technical Artist"
+description              : "Software Developer"
 url                      : https://mikeya-22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
