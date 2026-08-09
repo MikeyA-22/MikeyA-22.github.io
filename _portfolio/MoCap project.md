@@ -6,10 +6,10 @@ header:
         id: V9PdawP01Ko
         provider: youtube
     teaser: assets/images/MiCapFrontPage.png
-    video2:
+    video 2:
       id: 3nuybgIpUBY
       provider: youtube
-    teaser2: assets/images/MiCapFrontPage.png
+    teaser 2: assets/images/MiCapFrontPage.png
 sidebar:
   - title: "Role"
     text: "Developer"
