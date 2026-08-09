@@ -3,13 +3,9 @@ title: "IMU Motion Tracker: MiCap"
 excerpt: "A DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation."
 header:
     video:
-        id: V9PdawP01Ko
-        provider: youtube
-    teaser: assets/images/MiCapFrontPage.png
-    video 2:
       id: 3nuybgIpUBY
       provider: youtube
-    teaser 2: assets/images/MiCapFrontPage.png
+    teaser: assets/images/MiCapFrontPage.png
 sidebar:
   - title: "Role"
     text: "Developer"
@@ -84,3 +80,9 @@ Explore accessibility applications, such as alternative interfaces for creators 
 ## Reflection
 
 This project highlights my ability to work at the intersection of hardware, software, and interactive media. Beyond its technical scope, I am interested in how low-cost mocap can expand access to creative tools, allowing for people to gain the opportunity to use powerful tech with a lower barrier of entry.
+
+<!---
+video:
+        id: V9PdawP01Ko
+        provider: youtube
+    teaser: assets/images/MiCapFrontPage.png -->
