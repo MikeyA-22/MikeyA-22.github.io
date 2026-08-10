@@ -37,7 +37,7 @@ gallery3:
 
 {% include video id = "V9PdawP01Ko" provider = "youtube" %}
 
-please work.
+
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
 The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine.
