@@ -10,9 +10,13 @@ sidebar:
   - title: "Role"
     text: "Developer"
   - title: "Responsibilities"
-    text: "Research, Network engineering, Rigging, Programming, Debugging, Modelling, Soldering, Embedded Systems"
+    text: "Research, Network engineering, Rigging, Programming, Debugging, Modelling, Soldering, Embedded Systems, ML"
   - title: "Tools Used"
-    text: "Unity, Unreal, C++, Arduino, ESP32, UDP Protocol, Fusion 360, KiCad"
+    text: "Unity, Unreal, C++, Arduino, ESP32, UDP Protocol, Fusion 360, KiCad, Edge Impulse"
+video2:
+  id: V9PdawP01Ko
+  provider: youtube
+  teaser: assets/images/MiCapFrontPage.png
 gallery:
   - url: assets/images/3D.png
     image_path: assets/images/3D.png
@@ -119,7 +123,8 @@ After generating the features(our input parameters from the raw data), I trained
 
 After further investigation, I discovered I had written the reports for my IMU in a way that caused it to return the same data accross all three reports(Gyro, Accel, LAccel) After fixing this, I was able to train and test with 100% accuracy, as well as during live deployment.
 
-{% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Results and more" %}
+{% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Results and Impulse Training Block" %}
+{% include video id = "video2" layout = "full" caption="A video of the original functionality" %}
 
 
 ## Reflection
@@ -131,7 +136,4 @@ Beyond its technical scope, I am interested in how low-cost mocap can expand acc
 
 
 <!---
-video:
-        id: V9PdawP01Ko
-        provider: youtube
-    teaser: assets/images/MiCapFrontPage.png -->
+ -->
