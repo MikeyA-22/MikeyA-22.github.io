@@ -32,7 +32,8 @@ gallery3:
     image_path: assets/images/NN_Shape.png
   - url: assets/images/Impulse Design.png
     image_path: assets/images/Impulse Design.png
-
+  - url: assets/images/Testing Results.png
+    image_path: assets/images/Testing Results.png
 ---
 
 {% include video id = "V9PdawP01Ko" provider = "youtube" %}
@@ -123,7 +124,7 @@ After generating the features(our input parameters from the raw data), I trained
 
 After further investigation, I discovered I had written the reports for my IMU in a way that caused it to return the same data across all three reports(Gyro, Accel, LAccel) After fixing this, I was able to train and test with 100% accuracy, as well as during live deployment.
 
-{% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Results and Impulse Training Block" %}
+{% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Impulse Training Block and Results" %}
 
 
 
