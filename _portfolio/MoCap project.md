@@ -121,7 +121,7 @@ The Neural Network is composed of 53 input neurons, 2 hidden layers with 20 and 
 
 After generating the features(our input parameters from the raw data), I trained and the model performed with 100% accuracy! This pleasantly surprised me, as it was my first time training an NN. But the testing proved more challenging. Once Tested I received consistent confusion with a particular block data. I assumed that this must be an error and replaceed it, then receiving 100%, but when live training, I noticed this error pattern continued.
 
-After further investigation, I discovered I had written the reports for my IMU in a way that caused it to return the same data accross all three reports(Gyro, Accel, LAccel) After fixing this, I was able to train and test with 100% accuracy, as well as during live deployment.
+After further investigation, I discovered I had written the reports for my IMU in a way that caused it to return the same data across all three reports(Gyro, Accel, LAccel) After fixing this, I was able to train and test with 100% accuracy, as well as during live deployment.
 
 {% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Results and Impulse Training Block" %}
 {% include video id = "video2" layout = "full" caption="A video of the original functionality" %}
