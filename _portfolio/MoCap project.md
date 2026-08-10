@@ -13,10 +13,6 @@ sidebar:
     text: "Research, Network engineering, Rigging, Programming, Debugging, Modelling, Soldering, Embedded Systems, ML"
   - title: "Tools Used"
     text: "Unity, Unreal, C++, Arduino, ESP32, UDP Protocol, Fusion 360, KiCad, Edge Impulse"
-video2:
-  id: V9PdawP01Ko
-  provider: youtube
-  teaser: assets/images/MiCapFrontPage.png
 gallery:
   - url: assets/images/3D.png
     image_path: assets/images/3D.png
@@ -40,6 +36,8 @@ gallery3:
 ---
 
 {% include video id = "V9PdawP01Ko" provider = "youtube" %}
+
+please work.
 
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
 The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine.
