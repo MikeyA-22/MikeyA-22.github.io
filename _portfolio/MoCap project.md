@@ -39,6 +39,8 @@ gallery3:
 
 ---
 
+{% include video id = "V9PdawP01Ko" provider = "youtube" %}
+
 I am developing a DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation. 
 The project combines embedded hardware, networking, and animation pipelines to stream body motion into Unity Engine.
 
@@ -124,7 +126,9 @@ After generating the features(our input parameters from the raw data), I trained
 After further investigation, I discovered I had written the reports for my IMU in a way that caused it to return the same data across all three reports(Gyro, Accel, LAccel) After fixing this, I was able to train and test with 100% accuracy, as well as during live deployment.
 
 {% include gallery id = "gallery3" layout = "full" caption="Images of the NN's structure, Results and Impulse Training Block" %}
-{% include video id = "video2" layout = "full" caption="A video of the original functionality" %}
+
+
+
 
 
 ## Reflection
