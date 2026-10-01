@@ -75,11 +75,7 @@ feature_row4:
 ---
 
 
-I'm Michael Atteh, a Gameplay Programmer and Technical Artist, graduating with a Game Development and Interactive Media degree from Ontario Tech University. I use my skills in programming, art and design to create fun and engaging games, that captivate players and immerses them in unique, interactive experiences.
-
-My expertise in gameplay programming, shaders vfx and lighting, and generating procedural content allows me to push the boundaries of visual storytelling and create visually stunning, technically sophisticated game environments.
-
-Additionally, my strong foundation in game design principles ensure that these visual elements seamlessly integrate with engaging gameplay mechanics to deliver a cohesive and enjoyable player experience.
+I'm Michael Atteh, a Software Developer,  studying Computer Science(Master's) at the University of Ottawa.
 
 <!--{% include feature_row id="intro" type="center" %}-->
 
@@ -92,3 +88,4 @@ Additionally, my strong foundation in game design principles ensure that these v
 <!--{% include feature_row id="feature_row3" type="right" %}-->
 
 <!--{% include feature_row id="feature_row4" type="center" %}-->
+
