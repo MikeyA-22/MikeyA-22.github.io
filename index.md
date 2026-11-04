@@ -75,7 +75,7 @@ feature_row4:
 ---
 
 
-I'm Michael Atteh, a Software Developer,  studying Computer Science(Master's) at the University of Ottawa.
+I'm Michael Atteh, a Software Engineer,  studying Computer Science(Master's) at the University of Ottawa.
 
 <!--{% include feature_row id="intro" type="center" %}-->
 
