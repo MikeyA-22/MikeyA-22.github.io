@@ -1,5 +1,5 @@
 ---
-title: "Neurofit W.S.I.B Assessment App"
+title: "Neurofit W.S.I.B  Functional Abilities Form App"
 excerpt: "A Computer Vision Based Motion Capture for Assessing Whether W.S.I.B workers are ready to go back to work."
 header:
     video:
@@ -13,7 +13,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Research, Pipeline Integration, Frontend Implementation, Build Deployment"
   - title: "Tools Used"
-    text: "Unity, C#, Pytorch, Python"
+    text: "Unity, C#, OpenCV(MediaPipe), Python"
 ---
 
 # Overview
