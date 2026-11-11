@@ -1,5 +1,5 @@
 ---
-title: "IMU Motion Tracker: MiCap"
+title: "MotionBrick"
 excerpt: "A DIY inertial motion capture system to explore affordable, accessible solutions for real-time character animation."
 header:
     video:
